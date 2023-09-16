@@ -1,6 +1,6 @@
-[뷰의 속성](#1.-뷰의속성)
+[1. 뷰의 속성](#1.-뷰의속성)
 
-
+[2. 뷰 레이아웃 종류](#2.-레이아웃-종류)
 
 ## 1. 뷰의속성
 # 텍스트 뷰
@@ -59,8 +59,29 @@ xml에서 버튼 객체의 id를 부여하고, A 버튼을 누르면 good이 출
   
 
 <img width="1152" alt="스크린샷 2023-09-16 오후 8 23 39" src="https://github.com/youkm1/Kotlin_ANS.Study/assets/77780624/76746f6c-8841-49fc-b282-826b41a6ab04">
+
+
 <img width="189" alt="스크린샷 2023-09-16 오후 8 24 17" src="https://github.com/youkm1/Kotlin_ANS.Study/assets/77780624/1e500990-cc74-4e1c-83f6-e3b7f3d58bb4">
 
 *Good..*
 
-    
+## 2. 레이아웃 종류 
+* 1. LinearLayout  2. RelativeLayout 3. FrameLayout 4. GridLayout 5. ConstraintLayout
+
+### LinearLayout
+  뷰를 가로,세로 방향으로 나열하는 레이아웃 클래스. 
+  </br>
+### RelativeLayout
+  상대 뷰에 따라 유동적으로 정렬하는 레이아웃 클래스. 화면에 출력된 특정 뷰를 기준으로 함.
+  </br>
+### FrameLayout
+  뷰 객체를 카드 쌓듯 겹치고 겹처서 계속 출력하는 레이아웃 클래스.
+  쓸 일이 없어보이지만 하단 탭 버튼 등을 구현할 때 사용한다. (이제 모바일은 하단 탭 버튼 등   이 없어지는 추세 같은데 계속 사용할까?)
+  </br>
+### GridLayout
+  LinearLayout과 비슷하지만 줄바꿈을 자동으로 해주는! 레이아웃 클래스. 
+  </br>
+### ConstraintLayout
+  레이아웃 편집기에서 제일 잘 활용할 수 있는 레이아웃 클래스.
+  객체마다 제약을 둔다. 
+
