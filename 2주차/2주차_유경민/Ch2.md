@@ -1,8 +1,8 @@
-[1. 뷰의 속성](#-*-뷰의속성)
+[1. 뷰의 속성](#-:one:뷰의속성)
 
 [2. 뷰 레이아웃 종류](#2.-레이아웃-종류)
 
-## *뷰의속성
+## 1️⃣뷰의속성
 # 텍스트 뷰
 * autoLink 속성     </br>
   오토링크는 텍스트 뷰를 링크화 한것이다. 속성값으로는 web,email,phone등이 있다.
@@ -65,7 +65,7 @@ xml에서 버튼 객체의 id를 부여하고, A 버튼을 누르면 good이 출
 
 *Good..*
 
-## 2. 레이아웃 종류 
+## 2️⃣ 레이아웃 종류 
 * 1. LinearLayout  2. RelativeLayout 3. FrameLayout 4. GridLayout 5. ConstraintLayout
 
 ### LinearLayout
