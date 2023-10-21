@@ -8,7 +8,7 @@ foreground는 사용자가 보이는(카메라,달리기,심박수 등등은 per
 <tr></tr>
 <br>
 <br>
------
+---
 
 Dialog와 Toast, Sncakbar의 차이와 각각의 용도를 정리한 것을 보았다. 아주 유용한 것 같다. 
 <img width="702" alt="스크린샷 2023-10-22 오전 1 46 56" src="https://github.com/youkm1/Kotlin_ANS.Study/assets/77780624/a57747e7-be15-4300-9bce-6c4c93a35158">
